@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jun 2025 11:50:25 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Mon, 16 Jun 2025 11:50:25 +0530</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;-celestial-software-solutions&#34;&gt;🚀 Celestial Software Solutions&lt;/h1&gt;
+&lt;p&gt;Crafting next-gen digital experiences for a connected world.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-about-us&#34;&gt;🧠 About Us&lt;/h2&gt;
+&lt;p&gt;At &lt;strong&gt;Celestial Software Solutions&lt;/strong&gt;, we transform ideas into scalable software. With a passion for clean code and elegant user experiences, our team thrives on solving real-world problems through technology. From startups to enterprise systems, we deliver intuitive, high-performance solutions tailored to your goals.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-our-services&#34;&gt;💼 Our Services&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mobile App Development&lt;/strong&gt;&lt;br&gt;
+Cross-platform excellence using React Native and Flutter.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
